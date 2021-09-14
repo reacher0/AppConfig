@@ -1,0 +1,9 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="1" />
+      <entry action="ShowSettings@MainToolbar" count="20" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$8@Keymap" count="1" />
+    </counts>
+  </component>
+</application>

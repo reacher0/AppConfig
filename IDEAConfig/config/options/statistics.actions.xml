@@ -1,0 +1,18 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Undo" count="2" />
+      <entry action="EditorBackSpace" count="1" />
+      <entry action="EditorCopy" count="1" />
+      <entry action="EditorPaste" count="1" />
+      <entry action="NewModuleInGroup" count="1" />
+      <entry action="ShowNavBar" count="3" />
+      <entry action="ShowProjectStructureSettings" count="2" />
+      <entry action="ShowSettings" count="20" />
+      <entry action="TemplateProjectProperties" count="3" />
+      <entry action="TemplateProjectStructure" count="1" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="ViewToolButtons" count="1" />
+    </counts>
+  </component>
+</application>

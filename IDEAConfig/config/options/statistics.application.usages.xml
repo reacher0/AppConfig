@@ -1,0 +1,20 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Appearance" count="6" />
+      <entry feature="ide.settings.Auto Import" count="1" />
+      <entry feature="ide.settings.Code Completion" count="1" />
+      <entry feature="ide.settings.Code Style" count="2" />
+      <entry feature="ide.settings.Editor Tabs" count="1" />
+      <entry feature="ide.settings.File Encodings" count="1" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Java" count="2" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.System Settings" count="1" />
+      <entry feature="ideaapp.started" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,18 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
+    <property name="project.wizard.group" value="WEB_MODULE" />
+    <property name="project.wizard.template" value="Static Web" />
+    <property name="file.chooser.recent.files" value="E:/File/IdeaDemo" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ts.lib.d.ts.version" value="2.6.2" />
+    <property name="lastTip" value="1" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="android-component-compatibility-check" value="1631519315661" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="KEYMAP" value="Basic&#10;Duplic" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+  </component>
+</application>
